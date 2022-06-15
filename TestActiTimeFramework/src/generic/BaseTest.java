@@ -56,3 +56,4 @@ public class BaseTest	implements IAutoConstant {
 
 		
 }
+//admin
